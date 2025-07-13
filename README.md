@@ -1,4 +1,3 @@
-# Rock-Paper-Scissor-Game
 # ✊✋✌️ Rock Paper Scissors Game
 
 A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**. Challenge the bot, test your luck, and enjoy the classic hand game in a clean and colorful web UI!
